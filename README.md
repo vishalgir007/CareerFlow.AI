@@ -4,6 +4,11 @@ CareerFlow AI is an n8n workflow that automates LinkedIn job discovery, resume-j
 
 It runs daily, fetches jobs based on your filters, compares each job against your resume using an AI model, stores results in Google Sheets, and sends Telegram alerts for high-scoring matches.
 
+## Project Links
+
+- GitHub: https://github.com/vishalgir007/CareerFlow.AI.git
+- n8n Workflow: https://vishalgoswami01.app.n8n.cloud/workflow/a6PwefJMQumcE4Zg
+
 ## Workflow Overview
 
 1. Schedule trigger starts the workflow (default: daily at 5 PM).
